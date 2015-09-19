@@ -1,0 +1,2 @@
+info: socket.io started
+ChatCAT on Port: \\.\pipe\887e3987-d8e9-46c6-add8-521524293358
